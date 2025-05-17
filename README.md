@@ -10,3 +10,8 @@ Pick whatever models you want and use them freely.
 Got an idea for a new model?
 Head over to the Issues tab at the top-left and drop your suggestion.
 Please keep all requests appropriate (PG-13), and have fun!
+
+# License
+Make sure to follow our license
+ GNU GENERAL PUBLIC LICENSE
+ 3.0
